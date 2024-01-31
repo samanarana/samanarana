@@ -2,7 +2,9 @@
 <h1>Hi👋, I'm Saman!</h1>
 <h3>A passionate full stack developer from the SF Bay Area, USA</h3>
 <div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://www.linkedin.com/in/samanarana/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 </div>
 </div>
 
