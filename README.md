@@ -35,4 +35,6 @@
 Besides programming, I spend my time practicing jujitsu, working out, and hiking. I'm a huge fan of concerts of all kinds, and I love to cook and bake for my family and friends. 
 This is my lil cow dog, Layla:
 
-![layla2](https://github.com/samanarana/samanarana/assets/113636092/763da289-1ba6-46a7-8d88-2e82c7c9702a)
+<p align="center">
+  <img src="https://github.com/samanarana/samanarana/assets/113636092/763da289-1ba6-46a7-8d88-2e82c7c9702a" alt="layla2" width="600" />
+</p>
