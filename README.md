@@ -36,5 +36,5 @@ Besides programming, I spend my time practicing jujitsu, working out, and hiking
 This is my lil cow dog, Layla:
 
 <p align="center">
-  <img src="https://github.com/samanarana/samanarana/assets/113636092/763da289-1ba6-46a7-8d88-2e82c7c9702a" alt="layla2" width="600" />
+  <img src="https://github.com/samanarana/samanarana/assets/113636092/763da289-1ba6-46a7-8d88-2e82c7c9702a" alt="layla2" width="500" />
 </p>
